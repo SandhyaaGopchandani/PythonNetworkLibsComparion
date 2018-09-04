@@ -1,0 +1,6 @@
+numpy
+networkx
+igraph
+graph_tool
+matplotlib
+timit
